@@ -21,3 +21,8 @@
 <p align="center">
 <img src="https://github.com/Blueeyesjt1/JRosa-Plugins/assets/59098194/54af9384-5782-42a3-b579-14a49d748958" alt="Subway station" height="300">
 </p>
+
+<h3>Notes:</h3>
+A majority of the plugins have comments at the top to help understand the features.
+Feel free to give this out to anyone. A credit at the top of the script is appreciated but not necessary.
+JadenW.com

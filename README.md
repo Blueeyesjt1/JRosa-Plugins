@@ -28,7 +28,7 @@ I created this basic elevator-train system in hopes for easier vertical transpor
 <p align="center">
 <img src="https://github.com/Blueeyesjt1/JRosa-Plugins/assets/59098194/cd754f24-31f7-4639-bb25-58ef47cbf847" alt="Subway/train transporter" height="300">
 </p>
-A custom train transporter that exponentially increases and decreases speed for effectient transportation and immersion. 
+A custom train transporter that exponentially increases and decreases speed for optimized transportation and immersion. 
 This has a similar structure as the elevator plugin but with a expontential velocity.
 
 <h3>Notes:</h3>

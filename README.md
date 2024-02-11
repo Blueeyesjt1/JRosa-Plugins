@@ -1,4 +1,3 @@
-
 <h1 align="center">JRosa-Plugins</h1>
 <h3 align="center">A collection of Sub Rosa plugins/mods for server-sided overhauls.</h3>
 <p align="center">
@@ -10,15 +9,7 @@
 <img src="https://github.com/Blueeyesjt1/JRosa-Plugins/assets/59098194/7c29b431-1518-4ea7-8127-dc64ad13fe2b" alt="Subway station" height="300">
 <img src="https://github.com/Blueeyesjt1/JRosa-Plugins/assets/59098194/60426334-4404-4ab4-9640-c14171591d5f" alt="Parkour map" height="300">
 </p>
-At the moment, the 'map builder' does not save each time you place an object down. You must copy and paste from the terminal into the JSON file to be saved. This will make it that each time the server is reset, the map will be reloaded.
-Controls:
-     Z: Rotate on YAW
-     Shift + Z: Rotate on ROLL
-     Q: Rotate on PITCH
-     R move forward
-     Shift + R: Move slightly forward
-     F move backwards
-     Shift + F: Move slightly backwards
+At the moment, the 'map builder' does not save each time you place an object down. You must copy and paste from the terminal into the JSON file to be saved. This will make it that each time the server is reset, the map will be reloaded. Controls: Z: Rotate on YAW, Shift + Z: Rotate on ROLL, Q: Rotate on PITCH, R move forward, Shift + R: Move slightly forward, F move backwards, Shift + F: Move slightly backwards.
 
 <h3>Parking lot generation:</h3>
 <p align="center">

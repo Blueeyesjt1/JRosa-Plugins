@@ -6,6 +6,7 @@ plugin.description = 'Jaden\'s modifications and additions to World Mode'
 
 --SAVE OBJECTS IN THIS ARRAY:
 --Item/Vehicle name, position, rotation, item/vehicle type (Lets the script know what to spawn)
+--Ensure there is a comma (,) between each object item.
 local itemsData = {
     { "Train", Vector(2941.500000, 26.500000, 1543.500000),
         RotMatrix(1.000000, 0.000000, -0.000000, -0.000000,

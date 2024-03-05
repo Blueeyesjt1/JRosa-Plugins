@@ -15,6 +15,7 @@ Controls:
   <li>Z: Rotate on YAW, Shift + Z: Rotate on ROLL, Q: Rotate on PITCH</li>
   <li>R move forward, Shift + R: Move slightly forward</li>
   <li>F move backwards, Shift + F: Move slightly backwards</li>
+  <li>/build (/b): Build with the item of your choosing: '/b 37' (Builds with box (37) item)(</li>
 </ul>
 <h3>Parking lot generation:</h3>
 <p align="center">

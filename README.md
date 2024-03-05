@@ -12,13 +12,22 @@
 At the moment, the 'map builder' does not save each time you place an object down. You must copy and paste from the terminal into the <b>SpawnWorldPresets.lua</b> file. This will make it that each time the server is reset, the map will be reloaded.
 Controls:
 <ul>
-  <li>/build (/b): Build with the item of your choosing: '/b 37' (Builds with box (37) object)</li>
+  <li>/build (/b): Build with the item of your choosing: '/b 37', '/b box' (Builds with box (37) object)</li>
   <li>Left-click: Place object</li>
   <li>Z: Rotate on YAW, Shift + Z: Rotate on ROLL, Q: Rotate on PITCH</li>
   <li>R move forward, Shift + R: Move slightly forward</li>
   <li>F move backwards, Shift + F: Move slightly backwards</li>
   <li>Rick-click: Exit build-mode</li>
 </ul>
+
+Item names/numbers:
+<ul>
+  <li><b>Weapons:</b> Auto 5 (0), AK-47 (1), AK-47 Magazine (2), M-16 (3), M-16 Magazine (4), Magnum (5), .45 Bullets (6), MP5 (7), MP5 Magazine (8), Uzi (9), Uzi Magazine (10), 9mm (11), 9mm Magazine (12), and Grenade (13)</li>
+  <li><b>Disks:</b> Black Disk (19), Green Disk (20), Blue Disk (21), White Disk (22), Gold Disk (23), and Red Disk (24</li>
+  <li><b>Miscellaneous:</b> Bandage (14), Briefcase (15), Open Briefcase (16), Cash (Round) (17), Cash (World) (18), Cell Phone (25), Walkie Talkie (26), Key (27), Door (28), Newspaper (World spawn paper) (29), Burger (30), Desk (Broken) (31), Lamp (Broken) (32), Pay Phone (.25 Phone) (33), Memo (Blank sheet of paper) (34), Soccer Ball (35), Rope (36), Box (37), Big Box (Plank) (38), Computer (39), Arcade (40), Table (41), tabletest2 (Table, no physics) (42), cubewall (White wall) (43), Bottle (44), and Watermelon (45)</li>
+  <li><b>Vehicles:</b> The lineup features Town Car, Town Car 2 (.34 Town Car), Metro (.34 Metro), Limo (.34 Limousine), Turbo, Turbo S, Beamer, Van, Van 2 (Invisible right now), Minivan, Truck (Old, unused truck), Trailer (Old, unused trailer), Helicopter, Train, No-clip vehicle, Hatchback, and Test (Turbo, but weird)</li>
+</ul>
+
 <h3>Parking lot generation:</h3>
 <p align="center">
 <img src="https://github.com/Blueeyesjt1/JRosa-Plugins/assets/59098194/bedc15f3-4742-4ef8-adc1-bdcaeec8088e" alt="Subway station" height="200">

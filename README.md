@@ -9,7 +9,7 @@
 <img src="https://github.com/Blueeyesjt1/JRosa-Plugins/assets/59098194/7c29b431-1518-4ea7-8127-dc64ad13fe2b" alt="Subway station" height="200">
 <img src="https://github.com/Blueeyesjt1/JRosa-Plugins/assets/59098194/60426334-4404-4ab4-9640-c14171591d5f" alt="Parkour map" height="200">
 </p>
-At the moment, the 'map builder' does not save each time you place an object down. You must copy and paste from the terminal into the **SpawnWorldPresets.lua** file. This will make it that each time the server is reset, the map will be reloaded.
+At the moment, the 'map builder' does not save each time you place an object down. You must copy and paste from the terminal into the <b>SpawnWorldPresets.lua</b> file. This will make it that each time the server is reset, the map will be reloaded.
 Controls:
 <ul>
   <li>Z: Rotate on YAW, Shift + Z: Rotate on ROLL, Q: Rotate on PITCH</li>

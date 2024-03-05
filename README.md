@@ -9,8 +9,13 @@
 <img src="https://github.com/Blueeyesjt1/JRosa-Plugins/assets/59098194/7c29b431-1518-4ea7-8127-dc64ad13fe2b" alt="Subway station" height="200">
 <img src="https://github.com/Blueeyesjt1/JRosa-Plugins/assets/59098194/60426334-4404-4ab4-9640-c14171591d5f" alt="Parkour map" height="200">
 </p>
-At the moment, the 'map builder' does not save each time you place an object down. You must copy and paste from the terminal into the JSON file to be saved. This will make it that each time the server is reset, the map will be reloaded. Controls: Z: Rotate on YAW, Shift + Z: Rotate on ROLL, Q: Rotate on PITCH, R move forward, Shift + R: Move slightly forward, F move backwards, Shift + F: Move slightly backwards.
-
+At the moment, the 'map builder' does not save each time you place an object down. You must copy and paste from the terminal into the **SpawnWorldPresets.lua** file. This will make it that each time the server is reset, the map will be reloaded.
+Controls:
+<ul>
+  <li>Z: Rotate on YAW, Shift + Z: Rotate on ROLL, Q: Rotate on PITCH</li>
+  <li>R move forward, Shift + R: Move slightly forward</li>
+  <li>F move backwards, Shift + F: Move slightly backwards</li>
+</ul>
 <h3>Parking lot generation:</h3>
 <p align="center">
 <img src="https://github.com/Blueeyesjt1/JRosa-Plugins/assets/59098194/bedc15f3-4742-4ef8-adc1-bdcaeec8088e" alt="Subway station" height="200">

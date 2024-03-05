@@ -25,7 +25,7 @@ Item names/numbers:
   <li><b>Weapons:</b> <code>Auto 5 (0), AK-47 (1), AK-47 Magazine (2), M-16 (3), M-16 Magazine (4), Magnum (5), .45 Bullets (6), MP5 (7), MP5 Magazine (8), Uzi (9), Uzi Magazine (10), 9mm (11), 9mm Magazine (12), and Grenade (13)</code></li>
   <li><b>Disks:</b> <code>Black Disk (19), Green Disk (20), Blue Disk (21), White Disk (22), Gold Disk (23), and Red Disk (24)</code></li>
   <li><b>Miscellaneous:</b> <code>Bandage (14), Briefcase (15), Open Briefcase (16), Cash (Round) (17), Cash (World) (18), Cell Phone (25), Walkie Talkie (26), Key (27), Door (28), Newspaper (World spawn paper) (29), Burger (30), Desk (Broken) (31), Lamp (Broken) (32), Pay Phone (.25 Phone) (33), Memo (Blank sheet of paper) (34), Soccer Ball (35), Rope (36), Box (37), Big Box (Plank) (38), Computer (39), Arcade (40), Table (41), tabletest2 (Table, no physics) (42), cubewall (White wall) (43), Bottle (44), and Watermelon (45)</code></li>
-  <li><b>Vehicles:</b> <code>The lineup features Town Car, Town Car 2 (.34 Town Car), Metro (.34 Metro), Limo (.34 Limousine), Turbo, Turbo S, Beamer, Van, Van 2 (Invisible right now), Minivan, Truck (Old, unused truck), Trailer (Old, unused trailer), Helicopter, Train, No-clip vehicle, Hatchback, and Test (Turbo, but weird)</code></li>
+  <li><b>Vehicles:</b> <code>Town Car, Town Car 2 (.34 Town Car), Metro (.34 Metro), Limo (.34 Limousine), Turbo, Turbo S, Beamer, Van, Van 2 (Invisible right now), Minivan, Truck (Old, unused truck), Trailer (Old, unused trailer), Helicopter, Train, No-clip vehicle, Hatchback, and Test (Turbo, but weird)</code></li>
 </ul>
 
 <h3>Parking lot generation:</h3>
